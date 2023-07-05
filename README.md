@@ -18,3 +18,4 @@ Then I read ViewModel documentation from android developers portal. Then I learn
 And while retrieving data from the database I have also faced problems. The problem was the we are recieving are LiveData but the does not support LiveData.
 So, for that I created a void method in the adapter class to get all the data in a List form. 
 
+# UAS_SENSOR
